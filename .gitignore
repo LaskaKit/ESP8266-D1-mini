@@ -1,5 +1,5 @@
 #################
-## LasKKit Useful stuff
+## LaskaKit Useful stuff
 #################
 
 ## AVR Development
@@ -42,6 +42,7 @@
 *.user
 *.sln.docstates
 *.docx
+*.xlsx
 
 # Build results
 [Dd]ebug/
