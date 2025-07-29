@@ -2,7 +2,7 @@
  * Measured deep sleep current: 
  *                     * v1.0: 
  *                        * ADC - A0 soldered:  22 µA
- *                        * ADC - BAT soldered: 32 µA
+ *                        * ADC - BAT soldered: 27 µA
  * Board:   LaskaKit ESP8266 D1 mini  https://www.laskakit.cz/laskakit-esp8266-d1-mini/
  * 
  * In Arduino IDE choose board: "LOLIN(WEMOS) D1 R2 & mini"
